@@ -1,0 +1,11 @@
+KMETA
+SOF
+name:sokuid
+tldr:quick rand uuid
+desc:generates a random identifyer for custom usage
+author:Luis Pulido Díaz
+charset:utf-8
+repo:TBD
+contact:github@luispulido.com
+EOF
+
