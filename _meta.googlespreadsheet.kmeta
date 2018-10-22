@@ -2,10 +2,11 @@ KMETA
 SOF
 name:sokuid
 tldr:quick rand uuid
-desc:generates a random identifyer for custom usage
+desc:generates a random identifier for custom usage
 author:Luis Pulido Díaz
 charset:utf-8
 repo:TBD
-contact:github@luispulido.com
+contact:{twitter:pulidoman,github:github@luispulido.com}
+status:last_time_not_worked_please_edit_inhouse_
 EOF
 
